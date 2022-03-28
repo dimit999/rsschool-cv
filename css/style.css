@@ -29,7 +29,7 @@ html {
 .hr {
   border: none;
   height: 5px;
- }
+}
 
 .line {
   border-left: 2px solid #ccc;
@@ -58,7 +58,7 @@ html {
   padding-top: 10px;
 }
 
-.contacts-info, .tech-skills, .tech-skills-python, .tech-skills-js, .responsibilities, .projects, .edu, .courses {
+.contacts-info, .tech-skills, .tech-skills-python, .tech-skills-js, .responsibilities, .projects, .edu, .courses, .certificates-list {
   padding-left: 20px;
   padding-bottom: 10px;
 }
@@ -66,6 +66,11 @@ html {
 .example-projects {
   display: flex;
   justify-content: flex-start;
+}
+
+.certificates-list {
+  display: flex;
+  justify-content: space-around;
 }
 
 .code-project {
@@ -88,6 +93,12 @@ li.bold-titles {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.rs-school-js-fe, .rs-school-react, .udacity, .udemy_python_1, .udemy_python_2 {
+  padding-top: 10px;
+  width: 450px;
+  height: 289px;
 }
 
 .block {
