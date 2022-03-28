@@ -33,6 +33,7 @@ html {
 
 .line {
   border-left: 2px solid #ccc;
+  margin-top: 10px;
   margin-left: 10px;
   padding-left: 5px;
 }
@@ -69,8 +70,8 @@ html {
 }
 
 .certificates-list {
-  display: flex;
-  justify-content: space-around;
+
+  justify-content: flex-end;
 }
 
 .code-project {
@@ -83,22 +84,26 @@ li.bold-titles {
 
 .photo {
   width: 550px;
-  height: 389px;
+  height: 359px;
   background-color: #ffffff;
-  border-radius: 100%;
-  background-image: url('/img/cv_photo.jpg');
   background-repeat: no-repeat;
   background-position: center top;
-  border: 13px solid #ffffff;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.rs-school-js-fe, .rs-school-react, .udacity, .udemy_python_1, .udemy_python_2 {
+.rs-school-js-fe, .rs-school-react, .udacity, .udemy-python-1, .udemy-python-2 {
   padding-top: 10px;
-  width: 450px;
+  padding-right: 10px;
+  width: 400px;
   height: 289px;
+}
+
+.eng-cert {
+  padding-top: 10px;
+  width: 500px;
+  height: 150px;
 }
 
 .block {
