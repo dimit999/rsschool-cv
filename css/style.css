@@ -54,8 +54,22 @@ html {
   padding-left: 30px;
 }
 
-.contacts-info, .tech-skills, .tech-skills-python, .responsibilities, .projects, .edu, .courses {
+.tech-stack {
+  padding-top: 10px;
+}
+
+.contacts-info, .tech-skills, .tech-skills-python, .tech-skills-js, .responsibilities, .projects, .edu, .courses {
   padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.example-projects {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.code-project {
+  margin-left: 10px;
 }
 
 li.bold-titles {
