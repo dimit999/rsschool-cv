@@ -49,7 +49,7 @@
 ---
 
 ### Code examples/Projects:
-  > I can't show python code, because it is real projects/solutions which forbidden to share. About JavaS script - My final projects after courses:
+  > I can't show python code, because it is real projects/solutions which forbidden to share. About JavaScript - My final projects after courses:
   *  Site view: [covid-19-dashboard](https://rolling-scopes-school.github.io/dimit999-JS2020Q3/covid-dashboard/index.html); Code: [covid-19-dashboard](https://github.com/dimit999/covid-19_Dashboard);
   * Site view: [mathematical-modeling](https://mathematical-modeling.herokuapp.com/); Code: [mathematical-modeling](https://github.com/dimit999/rsclone/tree/main);
   * Site view: [english-for-kids](https://rolling-scopes-school.github.io/dimit999-JS2020Q3/english-for-kids/index.html); Code: [english-for-kids](https://github.com/dimit999/english-for-kids);

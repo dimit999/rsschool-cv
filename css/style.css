@@ -29,10 +29,11 @@ html {
 .hr {
   border: none;
   height: 5px;
- }
+}
 
 .line {
   border-left: 2px solid #ccc;
+  margin-top: 10px;
   margin-left: 10px;
   padding-left: 5px;
 }
@@ -54,8 +55,27 @@ html {
   padding-left: 30px;
 }
 
-.contacts-info, .tech-skills, .tech-skills-python, .responsibilities, .projects, .edu, .courses {
+.tech-stack {
+  padding-top: 10px;
+}
+
+.contacts-info, .tech-skills, .tech-skills-python, .tech-skills-js, .responsibilities, .projects, .edu, .courses, .certificates-list {
   padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.example-projects {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.certificates-list {
+
+  justify-content: flex-end;
+}
+
+.code-project {
+  margin-left: 10px;
 }
 
 li.bold-titles {
@@ -64,16 +84,26 @@ li.bold-titles {
 
 .photo {
   width: 550px;
-  height: 389px;
+  height: 359px;
   background-color: #ffffff;
-  border-radius: 100%;
-  background-image: url('/img/cv_photo.jpg');
   background-repeat: no-repeat;
   background-position: center top;
-  border: 13px solid #ffffff;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.rs-school-js-fe, .rs-school-react, .udacity, .udemy-python-1, .udemy-python-2 {
+  padding-top: 10px;
+  padding-right: 10px;
+  width: 400px;
+  height: 289px;
+}
+
+.eng-cert {
+  padding-top: 10px;
+  width: 500px;
+  height: 150px;
 }
 
 .block {
