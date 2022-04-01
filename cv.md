@@ -13,11 +13,10 @@
 
 ### Briefly About Myself:
   > I have more than 10 years of experience in the IT-sphere.<br>
-  More than 5 years I worked as a QA engineer (I have started as a simple QA engineer, after that, I i grew up to a QA manager).<br>
-  But all this time I thought about programming. So after learning of Python I have started to work as an Automation QA engineer and a QA Lead.<br>
-  I have an amazing experience for now (I know how to create automated tests for WEB app, mobile web app (Android/IOS), how to work with Native apps, how to work with microservices(API), etc).<br>
-  In my previous project, I worked as a QA Manager. I have managed a big team (6 QA engineers and 8 QA Automation engineers). In my daily duties included distribution of tasks between the testers and quality control tasks, update the stand, gather metrics and provide to PM, creation test strategy/test plan (QA plan, coordination of planned approach to testing with a project manager, communication with PO, BA, devs (on a side of client), Participating in grooming sessions, planning, daily, retrospective meetings, I did review test processes on other projects. On my pre-last projects, I worked using Scrum (I planned test activities per each sprint, created test results reports on the regular basis, performed projects/QA risks analysis on regular basis, prioritized areas for regression testing). + estimation test cases for automation, creation QA Automation plan, communication with a customer about code review, automation plans.<br>
-  In my current project, I work on a customer's side in Abu Dhabi/Dubai (Emirates). I work as a QA Automation Team Lead.
+
+In a previous project, I worked as a QA Manager. I have managed a big team (6 Manual QA’s and 8 Auto QA’s). My daily duties included the distribution of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA Automation plan, communication with a customer about code review, automation plans.
+
+In my current project, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a QA Team Lead.
 
 ---
 
@@ -39,12 +38,23 @@
   * REACT (a little experience);
   * TS (a little experience).
 
-  My responsibilities on current projects with Python language as a QA Automation Lead:
+  No issues about Java, have some experience, quickly can start to work with it.
+
+  My responsibilities on a current project with Python language as a QA Automation  Lead:
   * Communication between governments/customers and journeys about releases;
   * Quality control of more than 10 projects/journeys -> ~ 30+ people;
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
   * Interview with newcomers;
   * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.
+  For Example:
+  1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
+  2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
+  3. Python extended allure report.
+  4. Pipeline configuration for running tests remotely.
+  5. Selenoid configuration (solution for running tests remotely)
+  6. ReportPortal configuration (solution for showing test results) + info from JIRA + dev info(SonarQube/ZAP/Eslint/etc) with my personal additional features. Example: [Automation](https://drive.google.com/file/d/15oCjCHdvzxboNM6KGG1qL3Ur30ma3Jc3/view?usp=sharing), [Jira](https://drive.google.com/file/d/1tixR7-P3_9ziB9-08uZPTxBPwlLz95yI/view?usp=sharing).
+  7. And a lot of other python solutions.
+
 
 ---
 
