@@ -47,7 +47,7 @@
   * Quality control of more than 10 projects/journeys -> ~ 30+ people;
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
   * Interview with newcomers;
-  * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.
+  * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
   For Example:
   1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
   2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
