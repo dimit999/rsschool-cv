@@ -18,7 +18,7 @@
   > of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating
   > a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did
   > review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA
-  > Automation plan, communication with a customer about code review, automation plans.
+  > Automation plan, communication with a customer about code review, automation plans.<br>
   > In my current project, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a QA Team Lead.
 
 ---
