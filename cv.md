@@ -104,6 +104,6 @@ Certificates:
   > English - Upper-intermediate (according to the online test at EFset Logo www.efset.org). I live in Emirates more 3 years, I don't have any issues with communication.
   <br>
 
-  ![ES_SET_CERTIFICATE](/img/ef_set_eng.jpeg)
+  ![ES_SET_CERTIFICATE](/img/efset-english-level.jpeg)
 
 ---
