@@ -49,15 +49,15 @@
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
   * Interview with newcomers;
   * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
-  <br>
-  For Example:
-  1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
-  2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
-  3. Python extended allure report.
-  4. Pipeline configuration for running tests remotely.
-  5. Selenoid configuration (solution for running tests remotely)
-  6. ReportPortal configuration (solution for showing test results) + info from JIRA + dev info(SonarQube/ZAP/Eslint/etc) with my personal additional features. Example: [Automation](https://drive.google.com/file/d/15oCjCHdvzxboNM6KGG1qL3Ur30ma3Jc3/view?usp=sharing), [Jira](https://drive.google.com/file/d/1tixR7-P3_9ziB9-08uZPTxBPwlLz95yI/view?usp=sharing).
-  7. And a lot of other python solutions.
+  
+ For Example:
+ 1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
+ 2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
+ 3. Python extended allure report.
+ 4. Pipeline configuration for running tests remotely.
+ 5. Selenoid configuration (solution for running tests remotely)
+ 6. ReportPortal configuration (solution for showing test results) + info from JIRA + dev info(SonarQube/ZAP/Eslint/etc) with my personal additional features. Example: [Automation](https://drive.google.com/file/d/15oCjCHdvzxboNM6KGG1qL3Ur30ma3Jc3/view?usp=sharing), [Jira](https://drive.google.com/file/d/1tixR7-P3_9ziB9-08uZPTxBPwlLz95yI/view?usp=sharing).
+ 7. And a lot of other python solutions.
 
 
 ---
