@@ -13,10 +13,12 @@
 
 ### Briefly About Myself:
   > I have more than 10 years of experience in the IT-sphere.<br>
-
-In a previous project, I worked as a QA Manager. I have managed a big team (6 Manual QA’s and 8 Auto QA’s). My daily duties included the distribution of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA Automation plan, communication with a customer about code review, automation plans.
-
-In my current project, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a QA Team Lead.
+  > In a previous project, I worked as a QA Manager. I have managed a big team (6 Manual QA’s and 8 Auto QA’s). My daily duties included the distribution
+  > of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating
+  > a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did
+  > review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA
+  > Automation plan, communication with a customer about code review, automation plans.
+  > In my current project, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a QA Team Lead.
 
 ---
 
