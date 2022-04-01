@@ -6,6 +6,7 @@
 
 ### Contact information:
   **Telegram**: @DA99999<br>
+  **UAE phone number**: +971585178419<br>
   **Mail**: dimit999d@gmail.com<br>
   **Linkedin**: [**Linkedin**](https://www.linkedin.com/in/dmitry--ananyev/)
 
@@ -48,6 +49,7 @@
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
   * Interview with newcomers;
   * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
+  <br>
   For Example:
   1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
   2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
