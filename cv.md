@@ -14,13 +14,12 @@
 
 ### Briefly About Myself:
   > I have more than 10 years of experience in the IT-sphere.<br>
+  > **In my current project**, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a Senior QA Automation Engineer || a Senior QA Automation Architect. I can create Automation from zero in any project with very useful solutions and show you automation benefits.
   > **In a previous project**, I worked as a QA Manager. I have managed a big team (6 Manual QA’s and 8 Auto QA’s). My daily duties included the distribution
   > of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating
   > a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did
   > review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA
   > Automation plan, communication with a customer about code review, automation plans.<br>
-  > **In my current project**, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a QA Automation Lead.
-
 ---
 
 ### Skills:
@@ -43,14 +42,14 @@
 
   No issues about Java, have some experience, quickly can start to work with it.
 
-  My responsibilities on a current project with Python language as a QA Automation  Lead:
+  My responsibilities on a current project with Python language as a Senior QA Automation Engineer || a Senior QA Automation Architect:
+   * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
   * Communication between governments/customers and journeys about releases;
   * Quality control of more than 10 projects/journeys -> ~ 30+ people;
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
-  * Interview with newcomers;
-  * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
+  * Interview with newcomers.<br>
   
- For Example:
+Example of my created solutions :
  1. Python framework: for WEB automation: Chrome/FF/Safari/Edge, WEB for mobile devices (Android/IOS for emulators and real devices), Native app (Android/IOS).
  2. Python solutions: Cookies checker/Broken Links checker/JS errors checker/Accessibility testing/Localization testing.
  3. Python extended allure report.
