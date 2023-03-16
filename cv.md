@@ -14,7 +14,7 @@
 
 ### Briefly About Myself:
   > I have more than 11 years of experience in the IT-sphere.<br>
-  > **In my current project**, I work as a QA Lead || Automation Architect on the customer's side in Dubai (Emirates). My daily duties include big team management (6 Manual QA’s and 8 Auto QA’s), the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, communication with PM, devs. Participating in grooming sessions, planning, daily, retrospective meetings, the same I do review of other aspects of work and suggest cases how to improve it.
+  > **In my current project**, I work as a QA Lead || Automation Architect on the customer's side in Dubai (Emirates). My daily duties include big team management, the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, communication with PM, devs. Participating in grooming sessions, planning, daily, retrospective meetings, the same I do review of other aspects of work and suggest cases how to improve it.
   
   > I can create Automation from zero in any project with very useful solutions and show to you automation benefits. For example, except for normal checking functionality, I can create automation solutions for checking translations/test WEB benchmarks (CSS/JS/Image sizes/font qty)/test API performance/Accessibility/etc + automate daily routine work like creating reports/get team metrics/etc.
 I have experience for working with ReportPortals where possible to show full information about test-runs/common jira statistics/get and show info from SonarQube and etc.
