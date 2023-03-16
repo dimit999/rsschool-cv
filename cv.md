@@ -13,14 +13,12 @@
 ---
 
 ### Briefly About Myself:
-  > I have more than 10 years of experience in the IT-sphere.<br>
-  > **In my current project**, I work on the customer's side in Abu Dhabi/Dubai (Emirates) for more than 3 years - government project - [TAMM](https://www.tamm.abudhabi/). I work as a Senior QA Automation Engineer || a Senior QA Automation Architect. I can create Automation from zero in any project with very useful solutions and show you automation benefits.
+  > I have more than 11 years of experience in the IT-sphere.<br>
+  > **In my current project**, I work as a QA Lead || Automation Architect on the customer's side in Dubai (Emirates). My daily duties include big team management (6 Manual QA’s and 8 Auto QA’s), the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, communication with PM, devs. Participating in grooming sessions, planning, daily, retrospective meetings, the same I do review of other aspects of work and suggest cases how to improve it.
   
-  > **In a previous project**, I worked as a QA Manager. I have managed a big team (6 Manual QA’s and 8 Auto QA’s). My daily duties included the distribution
-  > of tasks between the testers, quality control tasks, updating the stand, gathering metrics, creating a test strategy/test plan (QA plan), coordinating
-  > a planned approach to testing, communication with PM, BA, devs. Participating in grooming sessions, planning, daily, retrospective meetings, I did
-  > review test processes on other projects. On my pre-last projects, I worked using Scrum + estimation test cases for automation, creation of QA
-  > Automation plan, communication with a customer about code review, automation plans.<br>
+  > I can create Automation from zero in any project with very useful solutions and show to you automation benefits. For example, except for normal checking functionality, I can create automation solutions for checking translations/test WEB benchmarks (CSS/JS/Image sizes/font qty)/test API performance/Accessibility/etc + automate daily routine work like creating reports/get team metrics/etc.
+I have experience for working with ReportPortals where possible to show full information about test-runs/common jira statistics/get and show info from SonarQube and etc.
+
 ---
 
 ### Skills:
