@@ -1,6 +1,3 @@
-[**Dmitry Ananyev CV**](https://dimit999.github.io/rsschool-cv/)
-
----
 ### Dmitry Ananyev
 ---
 
