@@ -7,7 +7,7 @@
 ### Contact information:
   **Telegram**: @DA99999<br>
   **UAE phone number**: +971585178419<br>
-  **Mail**: dimit999d@gmail.com<br>
+  **Mail**: dzmitry.ananyeu@gmail.com<br>
   **Linkedin**: [**Linkedin**](https://www.linkedin.com/in/dmitry--ananyev/)
 
 ---
