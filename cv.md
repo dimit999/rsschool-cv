@@ -10,11 +10,11 @@
 ---
 
 ### Briefly About Myself:
-  > I have more than 11 years of experience in the IT-sphere.<br>
-  > **In my current project**, I work as a QA Lead || Automation Architect on the customer's side in Dubai (Emirates). My daily duties include big team management, the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, and communication with PM, devs. Participating in grooming sessions, planning, and daily, retrospective meetings, the same I review other aspects of work and suggest cases of how to improve it.
+  > I have more than 12 years of experience in the IT-sphere.<br>
+  > **In my current project**, In my current project, I work as a Head of QA || Automation Architect on the customer's side in Dubai (Emirates) - FinTech, e-commerce platform. My daily duties include big team management, the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, and communication with PM, devs. Participating in grooming sessions, planning, and daily, retrospective meetings, the same I review other aspects of work and suggest cases of how to improve it. For Automation: framework creation/supporting/tests creation if necessary.
   
-  > I can create Automation from zero in any project with very useful solutions and show to you automation benefits. For example, except for normal checking functionality, I can create automation solutions for checking translations/test WEB benchmarks (CSS/JS/Image sizes/font qty)/test API performance/Accessibility/etc + automate daily routine work like creating reports/get team metrics/etc.
-I have experience for working with ReportPortal where possible to show full information about test-runs/common jira statistics/get and show info from SonarQube and etc.
+  > I can create automation from zero for any project with useful solutions and show you automation benefits. For example, except for normal checking functionality, I can create automation solutions for checking translations/test WEB benchmarks (CSS/JS/Image sizes/font qty)/test API performance/Accessibility/etc + automate daily routine work like creating reports/get team metrics/etc.
+I have experience for working with ReportPortal where possible to show full information about test-runs/common jira statistics/get and show info from SonarQube etc.
 
 ---
 
@@ -23,11 +23,11 @@ I have experience for working with ReportPortal where possible to show full info
   * Development languages: Python (full automation knowledge for any WEB/API/MOBILE projects), JS (Basic development knowledge: can fix UI bugs).
 
   For Python:
-  * Tools/libraries for working with interfaces (API, database, GUI, etc.) - pytest, allure, hamcrest, axe, locust;
-  * Tools for organizing and running tests (PyTest, RobotFramework, etc.) - pytest;
-  * Structure and tools for a centralized runner (for example, Jenkins CI) - pipeline, Jenkins CI;
+  * Tools/libraries for working with interfaces - Selenium, requests, axe, locust, MySQL/Mongo;
+  * Tools for organizing and running tests - Pytest;
+  * Structure and tools for a centralized runner - GitLab pipeline/GitHub actions/Jenkins;
   * Report generation tools - allure, html;
-  * Run of autotests on pipeline(GIT), mobile devices (Android, iOS: via Appium).
+  * Run of autotests on mobile devices (Android, iOS: via Appium).
 
   For JavaScript:
   * JS;
@@ -36,12 +36,16 @@ I have experience for working with ReportPortal where possible to show full info
   * REACT (a little experience);
   * TS (a little experience).
 
-  No issues about Java, have some experience, quickly can start to work with it.
+  No issues with JavaScript/Java. I can quickly start to work with it.
+  
+  Additional frameworks experience: Playwright/TestNG and Junit.
+  
+  Performance: Jmeter/Locust/Requests + Selenium
 
-  My responsibilities on a current project with Python language as a Senior QA Automation Engineer || a Senior QA Automation Architect:
+  My responsibilities on a current project with Python language as a Head of QA || Automation Architect:
    * Creating new solutions on Python: framework/testing solutions/pipeline configuration/QA dashboard (ReportPortal) configuration for viewing test results.<br>
   * Communication between governments/customers and journeys about releases;
-  * Quality control of more than 10 projects/journeys -> ~ 30+ people;
+  * Quality control of more than 5 projects;
   * Quality control: Front-end/Back-end (automation scripts) (Desktop/Mobile view), Back-end(API), responsiveness, Native apps;
   * Interview with newcomers.<br>
   
@@ -52,13 +56,13 @@ Example of my created solutions :
  4. Pipeline configuration for running tests remotely.
  5. Selenoid configuration (solution for running tests remotely)
  6. ReportPortal configuration (solution for showing test results) + info from JIRA + dev info(SonarQube/ZAP/Eslint/etc) with my personal additional features. Example: [Automation](https://drive.google.com/file/d/15oCjCHdvzxboNM6KGG1qL3Ur30ma3Jc3/view?usp=sharing), [Jira](https://drive.google.com/file/d/1tixR7-P3_9ziB9-08uZPTxBPwlLz95yI/view?usp=sharing).
- 7. And a lot of other python solutions.
+ 7. And a lot of other Python solutions.
 
 
 ---
 
 ### Code examples/Projects:
-  > I can't show python code, because it is real projects/solutions which forbidden to share. About JavaScript - My final projects after courses:
+  > I can't show Python code, because it is real projects/solutions that are forbidden to share. About JavaScript - My final projects after courses:
   *  Site view: [covid-19-dashboard](https://rolling-scopes-school.github.io/dimit999-JS2020Q3/covid-dashboard/index.html); Code: [covid-19-dashboard](https://github.com/dimit999/covid-19_Dashboard);
   * Site view: [mathematical-modeling](https://mathematical-modeling.herokuapp.com/); Code: [mathematical-modeling](https://github.com/dimit999/rsclone/tree/main);
   * Site view: [english-for-kids](https://rolling-scopes-school.github.io/dimit999-JS2020Q3/english-for-kids/index.html); Code: [english-for-kids](https://github.com/dimit999/english-for-kids);
