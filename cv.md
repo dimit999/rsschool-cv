@@ -5,7 +5,6 @@
 ---
 
 ### Contact information:
-  **Telegram**: @DA99999<br>
   **Mail**: dimit999d@gmail.com<br>
   **Linkedin**: [**Linkedin**](https://www.linkedin.com/in/dmitry--ananyev/)
 
