@@ -1,4 +1,4 @@
-### Dmitry Ananyev
+### Dzmitry Ananyeu
 ---
 
 ### Contact information:
@@ -9,7 +9,7 @@
 ---
 
 ### Briefly About Myself:
-  > I have more than 12 years of experience in the IT-sphere.<br>
+  > I have more than 13 years of experience in the IT-sphere.<br>
   > **In my current project**, In my current project, I work as a Head of QA || Automation Architect on the customer's side in Dubai (Emirates) - FinTech, e-commerce platform. My daily duties include big team management, the distribution of tasks between the testers, quality control tasks, gathering metrics, creating a test strategy/test plan (QA plan), coordinating a planned approach to testing, and communication with PM, devs. Participating in grooming sessions, planning, and daily, retrospective meetings, the same I review other aspects of work and suggest cases of how to improve it. For Automation: framework creation/supporting/tests creation if necessary.
   
   > I can create automation from zero for any project with useful solutions and show you automation benefits. For example, except for normal checking functionality, I can create automation solutions for checking translations/test WEB benchmarks (CSS/JS/Image sizes/font qty)/test API performance/Accessibility/etc + automate daily routine work like creating reports/get team metrics/etc.
