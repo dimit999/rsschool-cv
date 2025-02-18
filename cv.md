@@ -95,6 +95,8 @@ Certificates:
   ![Udemy_Python](/img/udemy_python_cert_1.png)
 
   ![Udemy_Python](/img/udemy_python_cert_2.png)
+  
+  ![GenAI Practice](/img/genAI_practice.png)
 
 ---
 
